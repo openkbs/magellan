@@ -1,5 +1,7 @@
 # Magellan: Geospatial Analytics Using Spark
 
+## (revised for Scala-2.11)
+
 [![Build Status](https://travis-ci.org/harsha2010/magellan.svg?branch=master)](https://travis-ci.org/harsha2010/magellan)
 [![codecov.io](http://codecov.io/github/harsha2010/magellan/coverage.svg?branch=master)](http://codecov.io/github/harsha2010/magellan?branch=maste)
 
